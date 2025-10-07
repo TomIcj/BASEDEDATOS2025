@@ -11,10 +11,10 @@
 
 ```Aprendiendo java
 Aprendis de desarrollador = {
-    nombre: "Tomas Cejas",
-    ubicación: "Argentina 🇦🇷",
-    aprendiendo: "java",
-    hobbies: ["Código", "juegos🕹️", "Música 🎵"],
+nombre: "Tomas Cejas",
+ubicación: "Argentina 🇦🇷",
+aprendiendo: "java",
+hobbies: ["Código", "juegos🕹️", "Música 🎵"],
 };
 ```
 
