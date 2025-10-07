@@ -15,6 +15,7 @@
       &width=600
       &lines=Hola!+Soy+Juan+👋;Desarrollador+Full+Stack+💻;Apasionado+por+el+código+🚀;Construyendo+el+futuro+✨" 
       alt="Typing SVG" 
+   
 ---
 
 ### 👨‍💻 Sobre Mí
