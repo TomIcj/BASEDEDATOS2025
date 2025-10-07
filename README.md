@@ -20,15 +20,12 @@
 
 ### 👨‍💻 Sobre Mí
 
-```javascript
+```Aprendiendo java
 Aprendis de desarrollador = {
-    nombre: "Tu Nombre",
+    nombre: "Tomas Cejas",
     ubicación: "Argentina 🇦🇷",
-    rol: "Full Stack Developer",
-    lenguajes: ["JavaScript", "Python", "Java", "TypeScript"],
-    aprendiendo: "Machine Learning & Cloud Computing",
-    hobbies: ["Código", "Café ☕", "Música 🎵"],
-    frase: "Convertir café en código desde 2020 ✨"
+    aprendiendo: "java",
+    hobbies: ["Código", "juegos🕹️", "Música 🎵"],
 };
 ```
 
@@ -38,12 +35,10 @@ Aprendis de desarrollador = {
 
 ## 🎯 Objetivos 2025
 
-- [x] ✅ Contribuir a 5 proyectos open source
-- [x] ✅ Lanzar mi primer curso online
-- [ ] 🔄 Alcanzar 1000 seguidores en GitHub
-- [ ] 🔄 Crear un SaaS exitoso
-- [ ] 🔄 Hablar en una conferencia tech
-- [ ] 📅 Escribir un libro técnico
+- [ ] 🔄 crear 5 proyectos sobre un juego
+- [ ] 🔄 Lanzar mi primer programa de optimizacion 
+- [ ] 🔄 Alcanzar un sueldo digno 
+- [ ] 📅 Escribir una guia sobre java para nuevos
 
 ---
 
