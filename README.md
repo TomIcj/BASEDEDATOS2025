@@ -30,7 +30,8 @@ hobbies:"Código", "juegos🕹️", "Música 🎵",
 - [ ] 📅 Escribir una guia sobre java para nuevos
 
 ---
-###Ya es todo wey por ahora 
+
+###  Ya es todo wey por ahora 
 
 
 </div>
