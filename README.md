@@ -33,5 +33,7 @@ hobbies:"Código", "juegos🕹️", "Música 🎵",
 
 ###  Ya es todo wey por ahora 
 
+##### Esto fue echo con una ayuda de ia muchas gracias por la atencion 
+
 
 </div>
