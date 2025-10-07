@@ -17,15 +17,7 @@ aprendiendo: "java",
 hobbies:"Código", "juegos🕹️", "Música 🎵",
 };
 ```
-const desarrollador = {
-    nombre: "Tu Nombre",
-    ubicación: "Argentina 🇦🇷",
-    rol: "Full Stack Developer",
-    lenguajes: ["JavaScript", "Python", "Java", "TypeScript"],
-    aprendiendo: "Machine Learning & Cloud Computing",
-    hobbies: ["Código", "Café ☕", "Música 🎵"],
-    frase: "Convertir café en código desde 2020 ✨"
-};
+
 ---
 
 
