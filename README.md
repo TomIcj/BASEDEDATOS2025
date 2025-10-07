@@ -1,22 +1,22 @@
 <div align="center">
 
-#  ¡BIENVENIDO A MI ESPACIO DE CÓDIGO! 
+#  🌎¡BIENVENIDO A NUEVO ESPACIO DE CÓDIGO!🌎
 
+ <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
       font=Fira+Code
       &size=35
       &duration=3000
       &pause=1000
-      &color=A855F7
+      &color=00D9FF
       &center=true
       &vCenter=true
       &repeat=true
       &width=600
       &lines=Hola!+Soy+Juan+👋;Desarrollador+Full+Stack+💻;Apasionado+por+el+código+🚀;Construyendo+el+futuro+✨" 
-     
+      alt="Typing SVG" 
   />
 </div>
-
 ---
 
 ### 👨‍💻 Sobre Mí
