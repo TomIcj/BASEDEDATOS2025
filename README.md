@@ -14,7 +14,7 @@ Aprendis de desarrollador = {
 nombre: "Tomas Cejas",
 ubicación: "Argentina 🇦🇷",
 aprendiendo: "java",
-hobbies: ["Código", "juegos🕹️", "Música 🎵"],
+hobbies:"Código", "juegos🕹️", "Música 🎵",
 };
 ```
 
