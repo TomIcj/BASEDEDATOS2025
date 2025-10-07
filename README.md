@@ -1,8 +1,20 @@
 <div align="center">
 
-# 🌟 ¡BIENVENIDO A MI ESPACIO DE CÓDIGO! 🌟
+#  ¡BIENVENIDO A MI ESPACIO DE CÓDIGO! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?
+    front=Roboto+code
+    &size=32
+    &duration=3000 
+    &pause=2000
+    &color=A855F7
+    &center=true
+    &vcenter=true
+    &repeat=true
+    &width=600
+    &lines=Novato+De+Java;Fanatico+De+los+videojuegos;Amante+De+Los+Survival
+    alt="Typing SVG"
+    />
 
 ---
 
