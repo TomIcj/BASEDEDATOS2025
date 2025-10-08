@@ -10,12 +10,12 @@
 ### 👨‍💻 Sobre Mí
 
 ```Aprendiendo java
-Aprendis de desarrollador = {
+Aprendis de desarrollador = 
 nombre: "Tomas Cejas",
 ubicación: "Argentina 🇦🇷",
 aprendiendo: "java",
 hobbies:"Código", "juegos🕹️", "Música 🎵",
-};
+
 ```
 
 ---
